@@ -11,8 +11,8 @@ Pelin ideana on pitää liikutettava esine suunnitellulla reitillä. Peli muistu
 
 Päämääränä on kuljettaa esine reitin alusta loppuun. Mitä nopeammin esineen saa loppuun, sitä enemmän pisteitä saa. Vaikka pelissä on pisteet, saa tason läpi kunhan vain pääsee loppuun asti. Pisteet ovat lähinnä extrana pitämässä motivaatiota päästä rata mahdollisimman nopeasti läpi. 
 
-Peli toteutetaan Construct 2 pelintoteutus ohjelmistolla. Peli tulee myös käyttämään SQL- tietokantoja ylläpitämäänpelaajien tietoja, kuten nimeä ja parasta tulosta. 
+Peli toteutetaan Construct 2 pelintoteutus ohjelmistolla. Peli tulee myös käyttämään SQL- tietokantoja ylläpitämään pelaajien tietoja, kuten nimeä ja parasta tulosta. 
 
-Peli on myös osa opiskelusta mobiilituotannon kurssilla Kymeenlaakson Ammattokorkeakoulussa. Projektia valvoo Samuli Karevaara ja lopullinen tuotos tulee vanhainkotiin tai muuhun vanhuksia kaitsevaan laitokseen kokeilukäyttöön. 
+Peli on myös osa opiskelusta mobiilituotannon kurssilla Kymeenlaakson Ammattokorkeakoulussa. Projektia valvoo päätoiminen kurssin opettaja ja lopullinen tuotos tulee vanhainkotiin tai muuhun vanhuksia kaitsevaan laitokseen kokeilukäyttöön. 
 
-Tuotoksen jatkosuunnittelu on tällä hetkellä auki. 
+Tuotteen jatkosuunnittelu on tällä hetkellä auki. Tuleeko peli myyntiin app- storeen vai onko se vain poislahjoitettava tuotos, on vielä avoin kysymys. 
