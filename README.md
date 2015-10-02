@@ -1,8 +1,10 @@
 # folder
 Peli: Esine reitillä
+
 Alusta: Kosketusnäyttö tabletti
 
-Kohderyhmä: 80+ vuotiaat. 
+Kohderyhmä: 80+ vuotiaat.
+
 Budjetti: Tahdonvoima. 
 
 Peliprojektin tavoitteena on saada vanhuksille sopiva ja heidän taitojaan kehittävä sekä ylläpitävä peli, joka tullaan julkaisemaan osana joulukalenteria, jossa joka luukussa on eri peli. Tämä peli keskittyy kehittämään ja yllpitämään motoorisia taitoja ja tarkkuutta. 
