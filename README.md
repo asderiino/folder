@@ -1,5 +1,5 @@
 # folder
-Peli: Esine reitillä
+Peli: Pidä esine reitillä
 
 Alusta: Kosketusnäyttö tabletti
 
