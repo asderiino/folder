@@ -15,3 +15,4 @@ Peli toteutetaan Construct 2 pelintoteutus ohjelmistolla. Peli tulee myös käyt
 
 Peli on myös osa opiskelusta mobiilituotannon kurssilla Kymeenlaakson Ammattokorkeakoulussa. Projektia valvoo Samuli Karevaara ja lopullinen tuotos tulee vanhainkotiin tai muuhun vanhuksia kaitsevaan laitokseen kokeilukäyttöön. 
 
+Tuotoksen jatkosuunnittelu on tällä hetkellä auki. 
