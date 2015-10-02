@@ -18,3 +18,6 @@ Peli toteutetaan Construct 2 pelintoteutus ohjelmistolla. Peli tulee myös käyt
 Peli on myös osa opiskelusta mobiilituotannon kurssilla Kymeenlaakson Ammattokorkeakoulussa. Projektia valvoo päätoiminen kurssin opettaja ja lopullinen tuotos tulee vanhainkotiin tai muuhun vanhuksia kaitsevaan laitokseen kokeilukäyttöön. 
 
 Tuotteen jatkosuunnittelu on tällä hetkellä auki. Tuleeko peli myyntiin app- storeen vai onko se vain poislahjoitettava tuotos, on vielä avoin kysymys. 
+
+Construct 2 tutorials: https://www.scirra.com/tutorials/top/page-1
+SQL tutorials: http://www.w3schools.com/sql/default.asp
